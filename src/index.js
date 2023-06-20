@@ -12,7 +12,7 @@ ReactDOM.render(
       <App />
     </main>
     <footer className="footer">
-      <p className="footer-text">Powered by Josseph Downs</p>
+      <p className="footer-text">by Josseph Downs</p>
     </footer>
   </div>,
   document.getElementById('root')
