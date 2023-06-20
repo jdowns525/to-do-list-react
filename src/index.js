@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 ReactDOM.render(
   <div className="container">
     <header className="header">
-      <h1 className="title">Cool Todo List</h1>
+      <h1 className="title">Cool To do List</h1>
     </header>
     <main className="main">
       <App />

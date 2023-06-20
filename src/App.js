@@ -19,7 +19,7 @@ function TodoList() {
 
   return (
     <div>
-      <h2>Todo List</h2>
+      <h2>To do List</h2>
       <input
         type="text"
         value={inputValue}
